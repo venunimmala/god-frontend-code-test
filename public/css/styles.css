@@ -1,4 +1,6 @@
-body {
-  background: steelblue;
-  color: white;
+.reverseIcon {
+  transform: scaleX(-1);
+}
+.removeUnderline {
+  text-decoration: "none";
 }
